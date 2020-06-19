@@ -1,0 +1,10 @@
+{
+  "name": "github-sponsor-webhook",
+  "version": "1.0.0",
+  "description": "A simple function to handle incoming web-hooks from GitHub Sponsor",
+  "main": "index.js",
+  "repository": "https://github.com/yu-ichiro/github-sponsor-webhook",
+  "author": "Yuichiro Smith <contact@yu-smith.com>",
+  "license": "MIT",
+  "private": false
+}
