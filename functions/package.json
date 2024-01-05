@@ -15,7 +15,7 @@
   "dependencies": {
     "firebase-admin": "^8.13.0",
     "firebase-functions": "^3.6.1",
-    "@slack/webhook": "^5.0.4",
+    "@slack/webhook": "^7.0.0",
     "@octokit/webhooks": "^7.6.4"
   },
   "devDependencies": {
